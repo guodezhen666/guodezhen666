@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guodezhen666
 - 👀 I’m interested in swimming and data.
-- 🌱 I’m currently learning Econometrica, Machine Learning, Deep Learning & Cpp
+- 🌱 I’m currently learning Econometrics, Machine Learning, Deep Learning & Cpp
 - 💞️ I’m looking to collaborate on empiricalist in information systems
 - 📫 guodezhen666@163.com
 
